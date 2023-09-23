@@ -21,15 +21,13 @@ The general format :
 The Terraform CLI installation instructions have changed due to GPG keyring updates. Therefore, we needed to refer to the latest Terraform Documentation for CLI installation instructions and update our installation scripts accordingly.
 
 
-[Install Terrafrom CLI]
-(https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+[Install Terraform CLI](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
 
 ### Considerations for Linux Distrubtion 
 
 This project is built for Ubuntu. Please ensure that your Linux distribution is compatible and make any necessary changes according to your distribution's requirements.
 
-[How To Check OS Version in Linux](
-https://www.cyberciti.biz/faq/how-to-check-os-version-in-linux-command-line/)
+[How To Check OS Version in Linux](https://www.cyberciti.biz/faq/how-to-check-os-version-in-linux-command-line/)
 
 Example of checking OS Version :
 
